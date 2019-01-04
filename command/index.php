@@ -1,6 +1,6 @@
 <?
 /*
-    ICS main page
+    Command main page
 */
 ?>
 <<!DOCTYPE html>

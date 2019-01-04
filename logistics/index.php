@@ -1,6 +1,6 @@
 <?
 /*
-    ICS main page
+    Logistics main page
 */
 ?>
 <<!DOCTYPE html>

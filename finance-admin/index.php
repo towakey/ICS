@@ -1,6 +1,6 @@
 <?
 /*
-    ICS main page
+    Finance and Administrator main page
 */
 ?>
 <<!DOCTYPE html>
